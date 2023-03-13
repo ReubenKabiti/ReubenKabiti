@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **ReubenKabiti/ReubenKabiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Nothing to see here
+![](https://github.com/ReubenKabiti/ReubenKabiti/blob/main/text-kitty.gif)
+
+Well maybe this cat :octocat:
+
+Here, have a cup of coffee ☕
+
+Happy coding !!
+
+![](https://github.com/ReubenKabiti/ReubenKabiti/blob/main/peachcat-new.gif)
